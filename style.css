@@ -1,0 +1,75 @@
+
+.jumbotron img {
+    width: 20em;
+}
+.jumbotron {
+    padding: 8em;
+}
+.lead {
+    font-size: 15px;
+}
+.color {
+    color: #FFF;
+}
+.wrapjumbotron {
+    height: 100%;
+}
+.container2 {
+    background-color: #000;
+}
+.row {
+    padding: 17em;
+}
+.p-2 {
+    color: #FFF;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 4em;
+}
+.p-3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Libary img {
+    width: 30em;
+    padding-top: 5em;
+}
+nav {
+    background-color: #000;
+}
+.container {
+    position: fixed;
+    background-color: #000;
+}
+.container a {
+    padding: 3em 3em 1em 3em;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 300vh;
+}
+#home {
+    height: 100vh;
+}
+#about {
+    height: 100vh;
+}
+#project {
+    padding: 2em;
+}
+.ig {
+    width: 6em;
+    border-radius: 50%;
+    margin-bottom: 1em;
+}
+.fb {
+    width: 5em;
+    border-radius: 50%;
+    margin-bottom: 1em;
+}
+footer {
+    display: flex;
+    justify-content: space-around;
+    margin: 4em;
+}
